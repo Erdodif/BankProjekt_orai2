@@ -9,7 +9,7 @@ namespace BankProjekt
     class Bank
     {
         private class Szamla
-        {
+        {/*HMmmm*/
             private string nev;
             private string szamlaszam;
             private ulong egyenleg;
